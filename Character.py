@@ -1,0 +1,7 @@
+print(26)
+print(14+26)
+print(40-14)
+print(4*10)     
+print(80/2)
+print(26%14)
+print(2**3)
